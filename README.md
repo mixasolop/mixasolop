@@ -4,7 +4,7 @@
 
 -----------------
 
-- I am looking for: **Summer internship in which i can implement interesting tasks and gain my first real experience**
+- I am looking for: **Summer internship in which i can implement interesting tasks and gain some real experience**
 
 
 
