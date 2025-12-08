@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mykhailo</h1>
-<h3 align="center">Motivated young student of Warsaw University of Technology in MiNI willing to gain hands-on experience in software engineering</h3>
 
 
 -----------------
-
-- I am looking for: **Summer internship in which i can implement interesting tasks and gain some real experience**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
