@@ -11,4 +11,4 @@ with applications in **telecom and large-scale systems**.
 
 ### 📫 Contact
 - Email: mixasolop@gmail.com
-- LinkedIn: linkedin.com/in/mykhailo-solop/
+- LinkedIn: https://www.linkedin.com/in/mykhailo-solop/
